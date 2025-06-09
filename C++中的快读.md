@@ -25,6 +25,7 @@
 #include <iostream>
 #include <cstdio>
 #include <chrono>
+#include <cstring>
 using namespace std;
 using namespace std::chrono;
 
@@ -185,6 +186,7 @@ cout << "Line with \\n" << "\n";   // 不刷新，快
 ``` c++
 
 #include <iostream>
+#include <cstring>
 
 int n, m;
 
@@ -213,6 +215,7 @@ int main() {
 ``` c++
 
 #include <iostream>
+#include <cstring>
 
 int n, m;
 
@@ -344,6 +347,7 @@ int main() {
 ``` c++
 
 #include <iostream>
+#include <cstring>
 
 int n, m;
 
